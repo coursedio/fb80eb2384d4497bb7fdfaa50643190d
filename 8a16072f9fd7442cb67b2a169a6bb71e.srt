@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.003
+- The second phase of our framework Survey
+
+2
+00:00:03.003 --> 00:00:06.004
+involves conducting a feasibility assessment.
+
+3
+00:00:06.004 --> 00:00:08.006
+It's about looking closely at your business
+
+4
+00:00:08.006 --> 00:00:10.006
+and understanding your organization's
+
+5
+00:00:10.006 --> 00:00:12.009
+current state of AI readiness.
+
+6
+00:00:12.009 --> 00:00:14.007
+This starts with the technical requirements
+
+7
+00:00:14.007 --> 00:00:18.001
+of any AI solution that you plan to adopt.
+
+8
+00:00:18.001 --> 00:00:20.009
+Whether you're using SaaS-based AI products,
+
+9
+00:00:20.009 --> 00:00:23.003
+fine tuning models on your own infrastructure,
+
+10
+00:00:23.003 --> 00:00:25.002
+or accessing proprietary ones
+
+11
+00:00:25.002 --> 00:00:28.006
+like Gemini, Claude, or GBT via an API,
+
+12
+00:00:28.006 --> 00:00:32.004
+technical requirements are an essential consideration.
+
+13
+00:00:32.004 --> 00:00:34.003
+In this video, I'll walk you through
+
+14
+00:00:34.003 --> 00:00:37.001
+how to draft an AI technical requirements document
+
+15
+00:00:37.001 --> 00:00:39.008
+that outlines the technology and infrastructure needed
+
+16
+00:00:39.008 --> 00:00:42.003
+to support your generative AI initiatives.
+
+17
+00:00:42.003 --> 00:00:46.001
+Your AI technical requirements document has twin objectives.
+
+18
+00:00:46.001 --> 00:00:49.005
+First, it audits current organizational capabilities
+
+19
+00:00:49.005 --> 00:00:52.006
+related to data, infrastructure, software, et cetera.
+
+20
+00:00:52.006 --> 00:00:55.003
+And secondly, it defines what is needed to build
+
+21
+00:00:55.003 --> 00:00:57.009
+or adopt preferred solutions.
+
+22
+00:00:57.009 --> 00:01:00.003
+In crafting your AI technical requirements document,
+
+23
+00:01:00.003 --> 00:01:02.006
+here are some elements to review.
+
+24
+00:01:02.006 --> 00:01:05.008
+Firstly, audit your compute infrastructure.
+
+25
+00:01:05.008 --> 00:01:07.005
+If you are building a custom solution,
+
+26
+00:01:07.005 --> 00:01:10.001
+you must decide between running your own models
+
+27
+00:01:10.001 --> 00:01:12.001
+or using APIs.
+
+28
+00:01:12.001 --> 00:01:14.000
+Running your models on your own infrastructure
+
+29
+00:01:14.000 --> 00:01:15.005
+may provide greater control,
+
+30
+00:01:15.005 --> 00:01:18.003
+but demands comprehensive infrastructure management,
+
+31
+00:01:18.003 --> 00:01:22.001
+including sophisticated hardware and skilled personnel.
+
+32
+00:01:22.001 --> 00:01:24.008
+Alternatively, using a managed service or API
+
+33
+00:01:24.008 --> 00:01:27.000
+will provide access to more advanced models
+
+34
+00:01:27.000 --> 00:01:29.009
+and allow you to focus on your product development.
+
+35
+00:01:29.009 --> 00:01:32.001
+Your choice should align with your organization's
+
+36
+00:01:32.001 --> 00:01:33.007
+needs and capabilities,
+
+37
+00:01:33.007 --> 00:01:37.005
+balancing both domain expertise with cost efficiency.
+
+38
+00:01:37.005 --> 00:01:40.005
+Next, recognize that a modern data foundation
+
+39
+00:01:40.005 --> 00:01:42.000
+is an absolute prerequisite
+
+40
+00:01:42.000 --> 00:01:44.007
+for effectively leveraging generative AI.
+
+41
+00:01:44.007 --> 00:01:45.006
+You'll need to catalog
+
+42
+00:01:45.006 --> 00:01:48.002
+your data sources, quality, and security,
+
+43
+00:01:48.002 --> 00:01:51.000
+and assess your organization's data availability,
+
+44
+00:01:51.000 --> 00:01:53.008
+governance policies, and preparedness.
+
+45
+00:01:53.008 --> 00:01:57.000
+You should also consider how seamlessly your AI solution
+
+46
+00:01:57.000 --> 00:02:00.007
+integrates with existing systems and their scalability.
+
+47
+00:02:00.007 --> 00:02:02.002
+As a foundational technology,
+
+48
+00:02:02.002 --> 00:02:06.003
+you want your AI to evolve alongside your business.
+
+49
+00:02:06.003 --> 00:02:10.000
+Next, environmental impacts should not be overlooked.
+
+50
+00:02:10.000 --> 00:02:11.009
+The energy requirements of AI models,
+
+51
+00:02:11.009 --> 00:02:13.007
+especially when developing your own,
+
+52
+00:02:13.007 --> 00:02:15.000
+can significantly affect
+
+53
+00:02:15.000 --> 00:02:17.004
+your organization's carbon footprint.
+
+54
+00:02:17.004 --> 00:02:19.005
+Be sure to assess this.
+
+55
+00:02:19.005 --> 00:02:21.007
+Lastly, it's crucial to incorporate
+
+56
+00:02:21.007 --> 00:02:23.004
+a comprehensive budget estimate
+
+57
+00:02:23.004 --> 00:02:25.008
+in your AI technical requirements document.
+
+58
+00:02:25.008 --> 00:02:27.008
+This should include all potential costs
+
+59
+00:02:27.008 --> 00:02:29.002
+such as licensing fees
+
+60
+00:02:29.002 --> 00:02:31.004
+for proprietary AI models or software,
+
+61
+00:02:31.004 --> 00:02:32.009
+and the expenses associated
+
+62
+00:02:32.009 --> 00:02:35.009
+with infrastructure development or upgrades.
+
+63
+00:02:35.009 --> 00:02:38.006
+Additionally, consider the ongoing operational costs
+
+64
+00:02:38.006 --> 00:02:41.001
+such as technical support, data management,
+
+65
+00:02:41.001 --> 00:02:44.003
+and any necessary staff training or hiring.
+
+66
+00:02:44.003 --> 00:02:47.003
+In summary, defining the AI technical requirements
+
+67
+00:02:47.003 --> 00:02:50.006
+is essential for successful implementation and adoption,
+
+68
+00:02:50.006 --> 00:02:52.008
+whether you're running models on your own infrastructure
+
+69
+00:02:52.008 --> 00:02:55.004
+or leveraging API-based services.
+
+70
+00:02:55.004 --> 00:02:58.003
+So I challenge you take some time after this video
+
+71
+00:02:58.003 --> 00:03:01.006
+and thoroughly document and assess your needs across data,
+
+72
+00:03:01.006 --> 00:03:04.006
+infrastructure, software, processes, and costs
+
+73
+00:03:04.006 --> 00:03:07.005
+to ensure your AI initiatives are technically sound
+
+74
+00:03:07.005 --> 00:03:09.001
+and strategically aligned.
+
+75
+00:03:09.001 --> 00:03:11.005
+We'll build on this document in the next video.

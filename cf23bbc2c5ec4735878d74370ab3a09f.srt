@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:01.009
+- Well, congrats.
+
+2
+00:00:01.009 --> 00:00:03.008
+You have reached the end of the course,
+
+3
+00:00:03.008 --> 00:00:06.003
+and I truly hope it was valuable.
+
+4
+00:00:06.003 --> 00:00:07.009
+I know that adopting new technology
+
+5
+00:00:07.009 --> 00:00:10.000
+in a company can be complicated.
+
+6
+00:00:10.000 --> 00:00:12.000
+This is especially true with AI,
+
+7
+00:00:12.000 --> 00:00:16.002
+given how fundamentally it changes processes and products.
+
+8
+00:00:16.002 --> 00:00:18.004
+My hope is that with the usage framework,
+
+9
+00:00:18.004 --> 00:00:20.004
+I have provided you with a mental model
+
+10
+00:00:20.004 --> 00:00:23.005
+that you can utilize effectively to guide AI decision making
+
+11
+00:00:23.005 --> 00:00:25.004
+and equip you with a flexible framework
+
+12
+00:00:25.004 --> 00:00:28.007
+that you can weave into your existing business strategy.
+
+13
+00:00:28.007 --> 00:00:30.002
+Feel free to follow me on LinkedIn,
+
+14
+00:00:30.002 --> 00:00:32.001
+and if you want to learn more about how Maginative
+
+15
+00:00:32.001 --> 00:00:34.008
+helps companies increase AI literacy across their teams,
+
+16
+00:00:34.008 --> 00:00:36.004
+you can visit our website.
+
+17
+00:00:36.004 --> 00:00:38.007
+For now, take care and one love.

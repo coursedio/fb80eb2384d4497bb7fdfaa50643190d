@@ -1,0 +1,241 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.008
+- As they say, with great power comes great responsibility.
+
+2
+00:00:04.008 --> 00:00:07.003
+And as generative AI technologies become more capable
+
+3
+00:00:07.003 --> 00:00:09.003
+and unlock incredible potential,
+
+4
+00:00:09.003 --> 00:00:11.004
+we must all be thoughtful stewards
+
+5
+00:00:11.004 --> 00:00:13.005
+and mitigate risk by integrating principled
+
+6
+00:00:13.005 --> 00:00:15.008
+and vigilant governance.
+
+7
+00:00:15.008 --> 00:00:17.002
+Responsible AI adoption
+
+8
+00:00:17.002 --> 00:00:20.004
+and deployment requires continuous, conscientious effort
+
+9
+00:00:20.004 --> 00:00:23.006
+across your teams, tools, and processes.
+
+10
+00:00:23.006 --> 00:00:26.001
+Here are six pillars that should form the foundation
+
+11
+00:00:26.001 --> 00:00:28.004
+of your action plan.
+
+12
+00:00:28.004 --> 00:00:32.003
+First, prioritize data integrity and security.
+
+13
+00:00:32.003 --> 00:00:34.009
+As we have covered in our risk analysis video,
+
+14
+00:00:34.009 --> 00:00:37.006
+generative AI relies heavily on data,
+
+15
+00:00:37.006 --> 00:00:41.009
+so breaches can propagate biases or privacy violations.
+
+16
+00:00:41.009 --> 00:00:43.003
+Appoint data guardians,
+
+17
+00:00:43.003 --> 00:00:46.002
+enact access controls, mask sensitive data,
+
+18
+00:00:46.002 --> 00:00:49.002
+and implement cybersecurity best practices.
+
+19
+00:00:49.002 --> 00:00:51.004
+Next, build accountability
+
+20
+00:00:51.004 --> 00:00:53.002
+through rigorous continuous monitoring
+
+21
+00:00:53.002 --> 00:00:56.004
+of your AI systems decisions and performance.
+
+22
+00:00:56.004 --> 00:01:00.001
+Watch closely for unfair biases and drops in accuracy,
+
+23
+00:01:00.001 --> 00:01:02.009
+and maintain human oversight and understandability
+
+24
+00:01:02.009 --> 00:01:05.002
+in AI-assisted decisions.
+
+25
+00:01:05.002 --> 00:01:07.001
+Be sure to update your models regularly
+
+26
+00:01:07.001 --> 00:01:10.007
+and phase out underperforming ones responsibly.
+
+27
+00:01:10.007 --> 00:01:14.002
+Third, foster an organizational culture centered
+
+28
+00:01:14.002 --> 00:01:16.005
+on responsible AI principles.
+
+29
+00:01:16.005 --> 00:01:18.003
+Provide interactive ethics training
+
+30
+00:01:18.003 --> 00:01:20.008
+exploring real world dilemmas.
+
+31
+00:01:20.008 --> 00:01:24.000
+Incentivize speaking up about risks.
+
+32
+00:01:24.000 --> 00:01:27.000
+Hire diversely, and promote participatory design
+
+33
+00:01:27.000 --> 00:01:29.004
+incorporated in different viewpoints.
+
+34
+00:01:29.004 --> 00:01:32.006
+It is essential that you and your leadership team exemplify
+
+35
+00:01:32.006 --> 00:01:36.000
+these values and decisions and actions.
+
+36
+00:01:36.000 --> 00:01:38.009
+Also, thoughtfully balance AI capabilities
+
+37
+00:01:38.009 --> 00:01:43.000
+with human judgment, especially for high stakes decisions.
+
+38
+00:01:43.000 --> 00:01:46.001
+Humans better sense context and consider ethics,
+
+39
+00:01:46.001 --> 00:01:48.006
+so use approaches like human-in-the-loop
+
+40
+00:01:48.006 --> 00:01:51.001
+where people can override AI actions,
+
+41
+00:01:51.001 --> 00:01:53.008
+and build trust by keeping end users informed
+
+42
+00:01:53.008 --> 00:01:56.006
+on how AI assists decisions.
+
+43
+00:01:56.006 --> 00:02:00.001
+Furthermore, you should actively mitigate algorithmic biases
+
+44
+00:02:00.001 --> 00:02:03.005
+through diverse data and bias mitigation techniques.
+
+45
+00:02:03.005 --> 00:02:07.002
+Seek out varied data sources, sample representatively,
+
+46
+00:02:07.002 --> 00:02:10.005
+and oversample minority groups judiciously.
+
+47
+00:02:10.005 --> 00:02:12.004
+Audit for discrimination through testing
+
+48
+00:02:12.004 --> 00:02:15.002
+and address issues as you iterate.
+
+49
+00:02:15.002 --> 00:02:18.002
+Finally, stay current on emerging regulations and standards
+
+50
+00:02:18.002 --> 00:02:21.004
+for responsible AI through partnerships, research,
+
+51
+00:02:21.004 --> 00:02:23.001
+and legal advice.
+
+52
+00:02:23.001 --> 00:02:26.002
+I implore you, move beyond minimum compliance
+
+53
+00:02:26.002 --> 00:02:29.005
+towards true ethical practice.
+
+54
+00:02:29.005 --> 00:02:31.001
+Now that you have watched this video,
+
+55
+00:02:31.001 --> 00:02:34.002
+take some time to reevaluate your existing AI roadmap
+
+56
+00:02:34.002 --> 00:02:35.009
+and action plan.
+
+57
+00:02:35.009 --> 00:02:38.006
+Explore how you can integrate responsible AI practices
+
+58
+00:02:38.006 --> 00:02:41.007
+in your policies, processes, and culture.
+
+59
+00:02:41.007 --> 00:02:44.005
+This way, you can uphold safety and ethics
+
+60
+00:02:44.005 --> 00:02:46.000
+while unlocking progress.

@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:03.007
+- Generative AI is rapidly reshaping business landscapes,
+
+2
+00:00:03.007 --> 00:00:05.006
+but you can't effectively navigate
+
+3
+00:00:05.006 --> 00:00:07.006
+what you don't understand.
+
+4
+00:00:07.006 --> 00:00:10.002
+Yes, companies are over-eager to jump in
+
+5
+00:00:10.002 --> 00:00:12.006
+and implement this powerful new technology,
+
+6
+00:00:12.006 --> 00:00:14.001
+but without diligent planning,
+
+7
+00:00:14.001 --> 00:00:16.003
+attempted AI solutions often fail,
+
+8
+00:00:16.003 --> 00:00:20.000
+waste resources, or bear unanticipated risk.
+
+9
+00:00:20.000 --> 00:00:22.001
+Hi, my name is Chris McKay,
+
+10
+00:00:22.001 --> 00:00:24.007
+and I'm the founder and CEO of Maginative.
+
+11
+00:00:24.007 --> 00:00:27.004
+Maginative provides AI education and training services
+
+12
+00:00:27.004 --> 00:00:29.002
+for organizations like yours,
+
+13
+00:00:29.002 --> 00:00:32.009
+looking to level up and win with new AI technologies.
+
+14
+00:00:32.009 --> 00:00:35.003
+We have developed a framework for adopting AI
+
+15
+00:00:35.003 --> 00:00:37.002
+that stitches together business goals,
+
+16
+00:00:37.002 --> 00:00:39.000
+requirements auditing, solution mapping,
+
+17
+00:00:39.000 --> 00:00:42.001
+change management, and adoption and iteration
+
+18
+00:00:42.001 --> 00:00:44.006
+into one coherent strategy.
+
+19
+00:00:44.006 --> 00:00:45.006
+So if you're ready to learn
+
+20
+00:00:45.006 --> 00:00:47.009
+how you can strategically adopt generative AI
+
+21
+00:00:47.009 --> 00:00:49.004
+in your organization,
+
+22
+00:00:49.004 --> 00:00:50.002
+let's jump in.

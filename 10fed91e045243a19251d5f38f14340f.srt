@@ -1,0 +1,305 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.004
+- AI's potential to transform your business is vast,
+
+2
+00:00:04.004 --> 00:00:07.009
+but make no mistake, it introduces new risks
+
+3
+00:00:07.009 --> 00:00:10.002
+that demand diligent governance.
+
+4
+00:00:10.002 --> 00:00:12.009
+Don't become another cautionary headline.
+
+5
+00:00:12.009 --> 00:00:17.002
+Proactively prepare your organization to mitigate AI risk.
+
+6
+00:00:17.002 --> 00:00:19.005
+In this video, I'll explain why any company
+
+7
+00:00:19.005 --> 00:00:21.008
+that is serious about leveraging AI technology
+
+8
+00:00:21.008 --> 00:00:25.003
+needs to prioritize doing an AI risk analysis.
+
+9
+00:00:25.003 --> 00:00:27.004
+Any promise in technology comes with risks
+
+10
+00:00:27.004 --> 00:00:29.001
+if not thoughtfully governed.
+
+11
+00:00:29.001 --> 00:00:32.004
+This is especially true of AI, given the capabilities
+
+12
+00:00:32.004 --> 00:00:35.007
+and access that the technology increasingly has.
+
+13
+00:00:35.007 --> 00:00:39.006
+Here's why conducting a risk analysis is essential.
+
+14
+00:00:39.006 --> 00:00:42.007
+One, it helps identify potential issues
+
+15
+00:00:42.007 --> 00:00:45.009
+before they escalate, allowing for preventative measures
+
+16
+00:00:45.009 --> 00:00:48.002
+rather than reactive ones.
+
+17
+00:00:48.002 --> 00:00:51.001
+Two, it ensures that you meet legal
+
+18
+00:00:51.001 --> 00:00:52.009
+and regulatory requirements
+
+19
+00:00:52.009 --> 00:00:56.007
+and reduces the risk of penalties or legal challenges.
+
+20
+00:00:56.007 --> 00:00:59.003
+Three, it'll help to identify
+
+21
+00:00:59.003 --> 00:01:02.004
+and mitigate biases or ethical concerns.
+
+22
+00:01:02.004 --> 00:01:05.007
+This is crucial to maintain trust with your consumers
+
+23
+00:01:05.007 --> 00:01:08.007
+and upholding your corporate responsibility.
+
+24
+00:01:08.007 --> 00:01:10.008
+And four, it will ultimately help
+
+25
+00:01:10.008 --> 00:01:12.009
+identify operational challenges
+
+26
+00:01:12.009 --> 00:01:14.009
+and contribute to smoother integration
+
+27
+00:01:14.009 --> 00:01:17.005
+and deployment of your AI technologies.
+
+28
+00:01:17.005 --> 00:01:18.006
+So how do you go about
+
+29
+00:01:18.006 --> 00:01:21.006
+actually conducting an AI risk analysis?
+
+30
+00:01:21.006 --> 00:01:24.006
+First, assemble a team, ideally consisting
+
+31
+00:01:24.006 --> 00:01:27.009
+of legal, risk management, and technical experts.
+
+32
+00:01:27.009 --> 00:01:30.003
+Then, start creating a detailed catalog
+
+33
+00:01:30.003 --> 00:01:33.000
+of AI risk specific to your business.
+
+34
+00:01:33.000 --> 00:01:35.004
+It's important to involve various stakeholders,
+
+35
+00:01:35.004 --> 00:01:39.001
+including employees, customers, and external experts
+
+36
+00:01:39.001 --> 00:01:42.006
+to get diverse perspectives on potential risks.
+
+37
+00:01:42.006 --> 00:01:46.003
+I recommend that you focus on four key areas,
+
+38
+00:01:46.003 --> 00:01:49.007
+one, data security, privacy, and permissions,
+
+39
+00:01:49.007 --> 00:01:51.006
+two, model safety issues,
+
+40
+00:01:51.006 --> 00:01:54.007
+such as hallucination and harmful content,
+
+41
+00:01:54.007 --> 00:01:57.004
+three, ethical issues around bias,
+
+42
+00:01:57.004 --> 00:01:59.008
+transparency, and intellectual property,
+
+43
+00:01:59.008 --> 00:02:04.000
+and four, legal and regulatory compliance.
+
+44
+00:02:04.000 --> 00:02:06.006
+For each area, catalog existing controls
+
+45
+00:02:06.006 --> 00:02:08.004
+and rank the likelihood and impact levels
+
+46
+00:02:08.004 --> 00:02:10.005
+of incidents if they occur,
+
+47
+00:02:10.005 --> 00:02:13.004
+then detail specific steps engineering, product,
+
+48
+00:02:13.004 --> 00:02:16.003
+and legal teams must take to strengthen policies,
+
+49
+00:02:16.003 --> 00:02:18.004
+monitoring, and responses.
+
+50
+00:02:18.004 --> 00:02:20.003
+You can leverage established frameworks
+
+51
+00:02:20.003 --> 00:02:23.001
+like the National Institute of Standards and Technologies,
+
+52
+00:02:23.001 --> 00:02:25.000
+AI Risk Management Framework,
+
+53
+00:02:25.000 --> 00:02:27.000
+or Deloitte's Trustworthy AI Framework
+
+54
+00:02:27.000 --> 00:02:28.008
+to guide your process.
+
+55
+00:02:28.008 --> 00:02:31.005
+These frameworks offer structured methodologies
+
+56
+00:02:31.005 --> 00:02:33.001
+for identifying and manage risk
+
+57
+00:02:33.001 --> 00:02:36.004
+tailored to an organization's unique needs.
+
+58
+00:02:36.004 --> 00:02:39.003
+Ultimately, recognize that continuous monitoring
+
+59
+00:02:39.003 --> 00:02:41.004
+and adaptability will be needed.
+
+60
+00:02:41.004 --> 00:02:43.005
+With AI technologies rapidly evolving
+
+61
+00:02:43.005 --> 00:02:45.004
+and regulatory landscapes shifting,
+
+62
+00:02:45.004 --> 00:02:48.005
+it's crucial to regularly update your risk analysis
+
+63
+00:02:48.005 --> 00:02:50.009
+to stay ahead of new challenges.
+
+64
+00:02:50.009 --> 00:02:53.000
+Now that you have watched this video,
+
+65
+00:02:53.000 --> 00:02:54.008
+I encourage you to take some time
+
+66
+00:02:54.008 --> 00:02:58.002
+to review the NIST's AI Risk Management Framework,
+
+67
+00:02:58.002 --> 00:03:01.009
+and then proceed to create a robust AI risk management plan.
+
+68
+00:03:01.009 --> 00:03:05.007
+Remember, the goal is to proactively manage AI risk,
+
+69
+00:03:05.007 --> 00:03:09.007
+ensuring your AI initiatives are both innovative and safe.
+
+70
+00:03:09.007 --> 00:03:12.003
+By doing so, you'll be setting your organization
+
+71
+00:03:12.003 --> 00:03:14.004
+on a path to not just mitigate risk,
+
+72
+00:03:14.004 --> 00:03:18.003
+but also to leverage AI responsibly and effectively.
+
+73
+00:03:18.003 --> 00:03:21.003
+Prioritize mitigation planning can help prevent AI failures
+
+74
+00:03:21.003 --> 00:03:23.008
+or scandals before they emerge.
+
+75
+00:03:23.008 --> 00:03:26.001
+Don't wait for an incident to happen
+
+76
+00:03:26.001 --> 00:03:27.005
+before you begin to act.

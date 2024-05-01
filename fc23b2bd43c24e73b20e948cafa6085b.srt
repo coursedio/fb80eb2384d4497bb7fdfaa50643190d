@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.009
+- How do you ensure your AI initiatives
+
+2
+00:00:02.009 --> 00:00:04.002
+are not just innovative,
+
+3
+00:00:04.002 --> 00:00:07.000
+but also drive real business value?
+
+4
+00:00:07.000 --> 00:00:08.006
+It's an important question
+
+5
+00:00:08.006 --> 00:00:10.007
+and one that's not asked enough.
+
+6
+00:00:10.007 --> 00:00:12.006
+This is where an AI roadmap
+
+7
+00:00:12.006 --> 00:00:15.003
+tied to your business goals comes in.
+
+8
+00:00:15.003 --> 00:00:17.004
+By now, you should have an inventory
+
+9
+00:00:17.004 --> 00:00:19.008
+of prioritized AI use cases in hand,
+
+10
+00:00:19.008 --> 00:00:21.003
+as well as an understanding
+
+11
+00:00:21.003 --> 00:00:23.009
+of the requirements and risks involved.
+
+12
+00:00:23.009 --> 00:00:28.008
+Now it's time to map out a pragmatic roadmap for execution.
+
+13
+00:00:28.008 --> 00:00:31.000
+An AI roadmap will provide you with a blueprint
+
+14
+00:00:31.000 --> 00:00:33.007
+for rolling out initiatives in logical phases
+
+15
+00:00:33.007 --> 00:00:37.002
+based on dependencies, effort, and priority.
+
+16
+00:00:37.002 --> 00:00:39.007
+However, it is critical that your initiatives
+
+17
+00:00:39.007 --> 00:00:41.007
+are aligned with your business needs.
+
+18
+00:00:41.007 --> 00:00:44.005
+Having measurable objectives tied to business impact
+
+19
+00:00:44.005 --> 00:00:46.007
+is crucial for evaluating success
+
+20
+00:00:46.007 --> 00:00:48.009
+and determining next phases.
+
+21
+00:00:48.009 --> 00:00:51.004
+It also enables you to course-correct quickly
+
+22
+00:00:51.004 --> 00:00:55.000
+if certain solutions are not demonstrating value.
+
+23
+00:00:55.000 --> 00:00:56.007
+Here is how you can go about developing
+
+24
+00:00:56.007 --> 00:00:58.002
+an effective AI roadmap
+
+25
+00:00:58.002 --> 00:01:00.004
+that can act as a guiding strategic document
+
+26
+00:01:00.004 --> 00:01:03.008
+for stakeholders across your organization.
+
+27
+00:01:03.008 --> 00:01:06.007
+First, group initiatives into short-term
+
+28
+00:01:06.007 --> 00:01:08.007
+and long-term AI projects.
+
+29
+00:01:08.007 --> 00:01:11.009
+Define concrete objectives, timelines, milestones,
+
+30
+00:01:11.009 --> 00:01:14.003
+and owners for each project.
+
+31
+00:01:14.003 --> 00:01:17.001
+Be realistic about effort, costs,
+
+32
+00:01:17.001 --> 00:01:19.007
+and technical complexity required.
+
+33
+00:01:19.007 --> 00:01:23.006
+Now, here is where tying to business value comes in.
+
+34
+00:01:23.006 --> 00:01:25.003
+For each AI initiative,
+
+35
+00:01:25.003 --> 00:01:27.003
+you must be able to clearly indicate
+
+36
+00:01:27.003 --> 00:01:30.001
+how it ladders up to overarching business goals
+
+37
+00:01:30.001 --> 00:01:33.006
+related to revenue, efficiency, risk, et cetera.
+
+38
+00:01:33.006 --> 00:01:36.006
+You'll want to balance high-risk, high-reward projects
+
+39
+00:01:36.006 --> 00:01:38.005
+with those that offer quick wins.
+
+40
+00:01:38.005 --> 00:01:41.001
+This balance is vital for maintaining momentum
+
+41
+00:01:41.001 --> 00:01:43.008
+and ensuring steady progress in AI maturity
+
+42
+00:01:43.008 --> 00:01:45.002
+and business impact.
+
+43
+00:01:45.002 --> 00:01:46.006
+The roadmap should clearly state
+
+44
+00:01:46.006 --> 00:01:49.004
+how each project contributes to your strategic goals
+
+45
+00:01:49.004 --> 00:01:52.007
+and how it will build your AI capabilities over time.
+
+46
+00:01:52.007 --> 00:01:54.003
+This roadmap should be flexible
+
+47
+00:01:54.003 --> 00:01:57.007
+and evolve as your AI initiatives progress.
+
+48
+00:01:57.007 --> 00:01:59.007
+Be sure to build in feedback loops with users
+
+49
+00:01:59.007 --> 00:02:02.003
+and continue looking out for shifts in business needs
+
+50
+00:02:02.003 --> 00:02:06.006
+or new AI capabilities that may impact roadmap priorities.
+
+51
+00:02:06.006 --> 00:02:08.004
+Being agile will be important
+
+52
+00:02:08.004 --> 00:02:11.003
+as the technology landscape evolves.
+
+53
+00:02:11.003 --> 00:02:14.004
+Lastly, ensure appropriate governance is in place
+
+54
+00:02:14.004 --> 00:02:16.009
+so that AI solutions roll out responsibly,
+
+55
+00:02:16.009 --> 00:02:20.004
+mitigating risks you have previously identified.
+
+56
+00:02:20.004 --> 00:02:22.008
+Appropriate governance will give leadership confidence
+
+57
+00:02:22.008 --> 00:02:25.000
+in the realization of business value.
+
+58
+00:02:25.000 --> 00:02:26.002
+So to wrap up,
+
+59
+00:02:26.002 --> 00:02:27.009
+developing an AI roadmap
+
+60
+00:02:27.009 --> 00:02:30.004
+is not just about planning AI projects,
+
+61
+00:02:30.004 --> 00:02:32.000
+it's about aligning these projects
+
+62
+00:02:32.000 --> 00:02:34.001
+with your business' core objectives
+
+63
+00:02:34.001 --> 00:02:36.006
+and ensuring they deliver real value.
+
+64
+00:02:36.006 --> 00:02:40.001
+Remember, an effective AI roadmap is a living document.
+
+65
+00:02:40.001 --> 00:02:42.002
+It's constantly evolving as your business
+
+66
+00:02:42.002 --> 00:02:44.006
+and technology landscape changes.
+
+67
+00:02:44.006 --> 00:02:46.007
+Your goal now is to use this roadmap
+
+68
+00:02:46.007 --> 00:02:49.005
+as a strategic tool to guide your AI journey,
+
+69
+00:02:49.005 --> 00:02:51.003
+ensuring that every initiative
+
+70
+00:02:51.003 --> 00:02:53.007
+contributes to your overarching business goals.

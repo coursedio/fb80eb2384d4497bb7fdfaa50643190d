@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.003
+- As companies unveil
+
+2
+00:00:02.003 --> 00:00:03.009
+evermore remarkable generative AI
+
+3
+00:00:03.009 --> 00:00:07.002
+capabilities in the form of new products and services,
+
+4
+00:00:07.002 --> 00:00:08.008
+it's understandable to be eager
+
+5
+00:00:08.008 --> 00:00:12.002
+to test the innovative possibilities they present.
+
+6
+00:00:12.002 --> 00:00:15.006
+I'm the voice in the room telling you to wait.
+
+7
+00:00:15.006 --> 00:00:17.003
+AI should not drive strategy.
+
+8
+00:00:17.003 --> 00:00:21.009
+Your business strategy should drive AI implementation.
+
+9
+00:00:21.009 --> 00:00:24.001
+This means identifying the business problems
+
+10
+00:00:24.001 --> 00:00:25.007
+and goals first,
+
+11
+00:00:25.007 --> 00:00:30.000
+then evaluating if and how AI can add value.
+
+12
+00:00:30.000 --> 00:00:32.009
+Beware of starting a generative AI initiative simply
+
+13
+00:00:32.009 --> 00:00:36.001
+because it's the hot new thing right now.
+
+14
+00:00:36.001 --> 00:00:38.004
+Adopting AI technology for technology's sake
+
+15
+00:00:38.004 --> 00:00:40.000
+rarely delivers value.
+
+16
+00:00:40.000 --> 00:00:42.009
+The key is to ground your AI initiatives in
+
+17
+00:00:42.009 --> 00:00:45.004
+practical business needs.
+
+18
+00:00:45.004 --> 00:00:48.001
+In this video, I'll show you how to identify
+
+19
+00:00:48.001 --> 00:00:50.009
+and prioritize AI use cases based on real
+
+20
+00:00:50.009 --> 00:00:53.000
+business goals and challenges.
+
+21
+00:00:53.000 --> 00:00:54.005
+This will set up impactful
+
+22
+00:00:54.005 --> 00:00:58.000
+and relevant AI adoption across your organization.
+
+23
+00:00:58.000 --> 00:01:00.009
+Here's how you can go about doing it.
+
+24
+00:01:00.009 --> 00:01:05.006
+First, clarify your key organizational objectives.
+
+25
+00:01:05.006 --> 00:01:07.006
+What business challenges are you facing?
+
+26
+00:01:07.006 --> 00:01:09.006
+Increased cost pressures,
+
+27
+00:01:09.006 --> 00:01:10.008
+poor customer retention,
+
+28
+00:01:10.008 --> 00:01:12.008
+supply chain disruptions.
+
+29
+00:01:12.008 --> 00:01:16.001
+The goal here is to outline tangible problems.
+
+30
+00:01:16.001 --> 00:01:19.007
+Next, analyze where inefficiency bottlenecks,
+
+31
+00:01:19.007 --> 00:01:22.008
+or waste exist in your core operations.
+
+32
+00:01:22.008 --> 00:01:24.001
+Where could automation
+
+33
+00:01:24.001 --> 00:01:27.009
+or optimization drive dramatic improvements?
+
+34
+00:01:27.009 --> 00:01:30.009
+Now using your investment in AI literacy
+
+35
+00:01:30.009 --> 00:01:32.001
+and increased understanding
+
+36
+00:01:32.001 --> 00:01:34.004
+of generative AI capabilities and solutions,
+
+37
+00:01:34.004 --> 00:01:35.009
+which we covered in the previous lesson,
+
+38
+00:01:35.009 --> 00:01:37.007
+you can begin to brainstorm
+
+39
+00:01:37.007 --> 00:01:39.009
+how AI can alleviate pain points
+
+40
+00:01:39.009 --> 00:01:42.008
+or help you capitalize on opportunities.
+
+41
+00:01:42.008 --> 00:01:45.004
+For instance, if reducing response times
+
+42
+00:01:45.004 --> 00:01:47.009
+for customer service requests is your priority,
+
+43
+00:01:47.009 --> 00:01:51.003
+AI powered chatbots might be a helpful solution to explore.
+
+44
+00:01:51.003 --> 00:01:54.000
+Or perhaps you want a conversational AI assistant
+
+45
+00:01:54.000 --> 00:01:56.000
+that can improve the closing ratios
+
+46
+00:01:56.000 --> 00:01:57.007
+of your sales execs by 5%
+
+47
+00:01:57.007 --> 00:02:01.000
+by providing product expertise in real-time.
+
+48
+00:02:01.000 --> 00:02:03.003
+The idea is to align AI solutions
+
+49
+00:02:03.003 --> 00:02:06.000
+to your specific business problems.
+
+50
+00:02:06.000 --> 00:02:08.001
+You should screen use cases against criteria like
+
+51
+00:02:08.001 --> 00:02:11.000
+feasibility, business impact, and effort required.
+
+52
+00:02:11.000 --> 00:02:14.006
+It can also be helpful to categorize use cases into types.
+
+53
+00:02:14.006 --> 00:02:16.008
+For example, revenue boosting, cost saving,
+
+54
+00:02:16.008 --> 00:02:20.002
+risk reduction, employee assistance, etc.
+
+55
+00:02:20.002 --> 00:02:22.000
+The crucial thing to remember is
+
+56
+00:02:22.000 --> 00:02:24.005
+that not every problem is best solved with AI,
+
+57
+00:02:24.005 --> 00:02:27.007
+and it's important to evaluate whether the expected return
+
+58
+00:02:27.007 --> 00:02:29.007
+on investment justifies the resources
+
+59
+00:02:29.007 --> 00:02:32.002
+and effort needed.
+
+60
+00:02:32.002 --> 00:02:33.004
+Throughout this process,
+
+61
+00:02:33.004 --> 00:02:36.001
+be sure to include stakeholders from different functions
+
+62
+00:02:36.001 --> 00:02:38.007
+to tap into diverse perspectives.
+
+63
+00:02:38.007 --> 00:02:40.003
+Their insights can reveal opportunities
+
+64
+00:02:40.003 --> 00:02:42.002
+you might not have considered
+
+65
+00:02:42.002 --> 00:02:44.005
+and will help ensure that AI solutions resonate
+
+66
+00:02:44.005 --> 00:02:46.007
+with the people using them.
+
+67
+00:02:46.007 --> 00:02:48.001
+To put this into practice,
+
+68
+00:02:48.001 --> 00:02:50.002
+consider hosting brainstorming session with team leaders
+
+69
+00:02:50.002 --> 00:02:54.000
+to identify pain points that AI could alleviate.
+
+70
+00:02:54.000 --> 00:02:56.004
+Be sure to stay informed about industry trends
+
+71
+00:02:56.004 --> 00:02:58.008
+and explore use cases to understand how businesses
+
+72
+00:02:58.008 --> 00:03:01.001
+similar to yours are utilized in AI.
+
+73
+00:03:01.001 --> 00:03:04.000
+And more importantly, engage with AI experts
+
+74
+00:03:04.000 --> 00:03:06.008
+or consultants who can provide an external perspective on
+
+75
+00:03:06.008 --> 00:03:09.000
+the technical and strategic feasibility
+
+76
+00:03:09.000 --> 00:03:11.003
+of your AI initiatives.
+
+77
+00:03:11.003 --> 00:03:13.007
+By focusing on identifying AI use cases
+
+78
+00:03:13.007 --> 00:03:14.009
+that are closely aligned with your businesses'
+
+79
+00:03:14.009 --> 00:03:16.001
+challenges and goals,
+
+80
+00:03:16.001 --> 00:03:18.002
+you ensure that your AI initiatives
+
+81
+00:03:18.002 --> 00:03:20.003
+are not just technologically sound,
+
+82
+00:03:20.003 --> 00:03:22.002
+but also strategically valuable.

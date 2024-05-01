@@ -1,0 +1,217 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.004
+- Investing in generative AI
+
+2
+00:00:02.004 --> 00:00:04.009
+is not just about embracing new technology,
+
+3
+00:00:04.009 --> 00:00:07.009
+it's about driving real business value.
+
+4
+00:00:07.009 --> 00:00:12.002
+But how do you measure the success of your AI initiatives?
+
+5
+00:00:12.002 --> 00:00:14.006
+In this video, I'll provide you with a framework
+
+6
+00:00:14.006 --> 00:00:17.006
+for accurately evaluating your AI solutions performance
+
+7
+00:00:17.006 --> 00:00:20.009
+and return on investments, including metrics, costs,
+
+8
+00:00:20.009 --> 00:00:23.005
+and overall business impact.
+
+9
+00:00:23.005 --> 00:00:25.004
+When evaluating your AI initiatives,
+
+10
+00:00:25.004 --> 00:00:27.009
+first, revisit the key performance indicators
+
+11
+00:00:27.009 --> 00:00:29.009
+and milestones that you would've created
+
+12
+00:00:29.009 --> 00:00:33.007
+during the AI roadmap goal alignment section of this course.
+
+13
+00:00:33.007 --> 00:00:37.005
+These are your evaluation North Stars.
+
+14
+00:00:37.005 --> 00:00:39.004
+Assess both quantitative metrics
+
+15
+00:00:39.004 --> 00:00:41.009
+like usage analytics, and conversions,
+
+16
+00:00:41.009 --> 00:00:43.008
+and qualitative feedback like surveys
+
+17
+00:00:43.008 --> 00:00:47.003
+and interviews from staff and customers.
+
+18
+00:00:47.003 --> 00:00:50.005
+Quantitative data reveals the who, what, and when,
+
+19
+00:00:50.005 --> 00:00:53.009
+while qualitative data offers the why.
+
+20
+00:00:53.009 --> 00:00:56.004
+Next, determine comprehensive costs
+
+21
+00:00:56.004 --> 00:00:59.000
+over your AI solutions full lifecycle.
+
+22
+00:00:59.000 --> 00:01:01.006
+From research to post-deployment oversight
+
+23
+00:01:01.006 --> 00:01:04.001
+including maintenance, monitoring upgrades,
+
+24
+00:01:04.001 --> 00:01:06.005
+and responsible deprecation.
+
+25
+00:01:06.005 --> 00:01:08.001
+With targets and cost clarified,
+
+26
+00:01:08.001 --> 00:01:11.003
+you can now begin to calculate business impact.
+
+27
+00:01:11.003 --> 00:01:13.002
+Intangible terms for example.
+
+28
+00:01:13.002 --> 00:01:15.007
+If your AI chat bot boosted sales conversion
+
+29
+00:01:15.007 --> 00:01:18.008
+rates by 7%, you can determine precisely
+
+30
+00:01:18.008 --> 00:01:20.008
+how much additional revenue that yielded
+
+31
+00:01:20.008 --> 00:01:23.005
+and compare it against total costs.
+
+32
+00:01:23.005 --> 00:01:27.004
+This cost benefit analysis determines return on investment,
+
+33
+00:01:27.004 --> 00:01:30.009
+a metric crucial for executive decision making.
+
+34
+00:01:30.009 --> 00:01:34.001
+However, traditional ROI calculations focusing solely
+
+35
+00:01:34.001 --> 00:01:35.004
+on direct financial gains
+
+36
+00:01:35.004 --> 00:01:40.000
+versus implementation costs don't always apply neatly to AI.
+
+37
+00:01:40.000 --> 00:01:42.007
+AI impacts include both Hard ROI,
+
+38
+00:01:42.007 --> 00:01:45.003
+such as direct financial gains like cost savings,
+
+39
+00:01:45.003 --> 00:01:49.004
+and Soft ROI, broader benefits like employee satisfaction,
+
+40
+00:01:49.004 --> 00:01:52.009
+decision agility improvements, and future readiness.
+
+41
+00:01:52.009 --> 00:01:56.001
+You'll need to formulate frameworks to quantify both.
+
+42
+00:01:56.001 --> 00:01:59.005
+So catalog all measurable cost and time savings,
+
+43
+00:01:59.005 --> 00:02:02.008
+revenue and productivity lifts as Hard ROI
+
+44
+00:02:02.008 --> 00:02:04.004
+would also develop indicators
+
+45
+00:02:04.004 --> 00:02:06.006
+and measures to value software upsides
+
+46
+00:02:06.006 --> 00:02:09.001
+like skills development, brand enhancement,
+
+47
+00:02:09.001 --> 00:02:11.002
+and anticipatory capacity.
+
+48
+00:02:11.002 --> 00:02:13.009
+Stay nimble and reevaluate KPIs
+
+49
+00:02:13.009 --> 00:02:16.004
+and ROI analyses as markets shift
+
+50
+00:02:16.004 --> 00:02:19.003
+so you can course correct if needed.
+
+51
+00:02:19.003 --> 00:02:22.002
+Through accurate evaluation of real world performance
+
+52
+00:02:22.002 --> 00:02:24.001
+and future strategic impact,
+
+53
+00:02:24.001 --> 00:02:25.009
+you can justify investments to unlock
+
+54
+00:02:25.009 --> 00:02:29.000
+AI's last and transformative potential in your business.

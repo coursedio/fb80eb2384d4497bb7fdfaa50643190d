@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.002
+- Implementing AI solutions without capable
+
+2
+00:00:03.002 --> 00:00:04.009
+and enthusiastic employees
+
+3
+00:00:04.009 --> 00:00:09.000
+and supporters across your organization is a non-starter.
+
+4
+00:00:09.000 --> 00:00:12.009
+Unfortunately, many leaders discover skill gaps too late,
+
+5
+00:00:12.009 --> 00:00:14.006
+and this undermines initiatives
+
+6
+00:00:14.006 --> 00:00:17.007
+after they have already made significant investment.
+
+7
+00:00:17.007 --> 00:00:19.007
+In this video, I'll demonstrate how
+
+8
+00:00:19.007 --> 00:00:22.009
+to systematically analyze your talent landscape
+
+9
+00:00:22.009 --> 00:00:24.007
+to help pinpoint existing capabilities,
+
+10
+00:00:24.007 --> 00:00:27.007
+identify skill shortages, and inform decisions
+
+11
+00:00:27.007 --> 00:00:29.008
+on hiring and re-skilling.
+
+12
+00:00:29.008 --> 00:00:32.008
+All of which are vital for AI success.
+
+13
+00:00:32.008 --> 00:00:37.003
+So how do we perform an AI skills gap analysis?
+
+14
+00:00:37.003 --> 00:00:38.007
+Well, it starts
+
+15
+00:00:38.007 --> 00:00:41.003
+with understanding the specific competencies required
+
+16
+00:00:41.003 --> 00:00:44.003
+for AI implementation in your business.
+
+17
+00:00:44.003 --> 00:00:46.004
+This builds on your technical requirements document
+
+18
+00:00:46.004 --> 00:00:48.007
+that we covered in the previous video.
+
+19
+00:00:48.007 --> 00:00:50.005
+Start by identifying these roles
+
+20
+00:00:50.005 --> 00:00:52.008
+and skills across technical, non-technical
+
+21
+00:00:52.008 --> 00:00:54.006
+and leadership positions.
+
+22
+00:00:54.006 --> 00:00:56.004
+Then compare these requirements against
+
+23
+00:00:56.004 --> 00:00:58.004
+your current team's capabilities.
+
+24
+00:00:58.004 --> 00:01:00.004
+Assess not only their technical skills,
+
+25
+00:01:00.004 --> 00:01:03.002
+but their readiness to adapt to AI.
+
+26
+00:01:03.002 --> 00:01:04.004
+Are there team members who
+
+27
+00:01:04.004 --> 00:01:06.007
+with additional training could fill these roles,
+
+28
+00:01:06.007 --> 00:01:09.008
+or do you need to consider hiring externally?
+
+29
+00:01:09.008 --> 00:01:13.003
+Remember, re-skilling your existing team can be as crucial
+
+30
+00:01:13.003 --> 00:01:15.001
+as hiring new talent.
+
+31
+00:01:15.001 --> 00:01:16.009
+It's not just about filling gaps,
+
+32
+00:01:16.009 --> 00:01:20.000
+but also about fostering a culture of continuous learning
+
+33
+00:01:20.000 --> 00:01:22.003
+and adaptability in the face of technology
+
+34
+00:01:22.003 --> 00:01:24.007
+that is advancing this quickly.
+
+35
+00:01:24.007 --> 00:01:27.005
+There are two primary skill gaps that you should focus on.
+
+36
+00:01:27.005 --> 00:01:29.006
+Those across technical teams that design
+
+37
+00:01:29.006 --> 00:01:31.002
+and build AI solutions
+
+38
+00:01:31.002 --> 00:01:32.008
+and those across business teams
+
+39
+00:01:32.008 --> 00:01:36.000
+that apply AI in their operations.
+
+40
+00:01:36.000 --> 00:01:37.008
+Technical skill gaps often revolve
+
+41
+00:01:37.008 --> 00:01:39.005
+around specialized AI tasks, such
+
+42
+00:01:39.005 --> 00:01:42.004
+as fine tuning models and managing data.
+
+43
+00:01:42.004 --> 00:01:44.000
+Business skill gaps, on the other hand,
+
+44
+00:01:44.000 --> 00:01:45.009
+are about understanding AI's role
+
+45
+00:01:45.009 --> 00:01:49.000
+and capabilities within a business context.
+
+46
+00:01:49.000 --> 00:01:51.005
+To address these gaps, start by looking internally.
+
+47
+00:01:51.005 --> 00:01:54.006
+Identify AI thought leaders within your organization
+
+48
+00:01:54.006 --> 00:01:57.009
+and empower them as AI evangelists.
+
+49
+00:01:57.009 --> 00:02:01.000
+Focus on retraining and upskilling existing employees,
+
+50
+00:02:01.000 --> 00:02:04.004
+emphasizing not just technical skills, but also interpretive
+
+51
+00:02:04.004 --> 00:02:06.007
+and cognitive abilities like creativity
+
+52
+00:02:06.007 --> 00:02:08.008
+and strategic thinking.
+
+53
+00:02:08.008 --> 00:02:10.005
+Consider setting up innovation labs
+
+54
+00:02:10.005 --> 00:02:14.001
+and internal conferences to foster an AI-centric culture
+
+55
+00:02:14.001 --> 00:02:17.000
+and collaborative learning environment.
+
+56
+00:02:17.000 --> 00:02:19.000
+If internal resources are insufficient,
+
+57
+00:02:19.000 --> 00:02:20.009
+you must look externally.
+
+58
+00:02:20.009 --> 00:02:23.000
+This may involve hiring AI experts,
+
+59
+00:02:23.000 --> 00:02:25.001
+tapping into young talent through internships,
+
+60
+00:02:25.001 --> 00:02:26.009
+or partnering with consulting firms
+
+61
+00:02:26.009 --> 00:02:29.005
+with an experienced talent pool.
+
+62
+00:02:29.005 --> 00:02:33.001
+Such external hiring should be strategic, focusing on areas
+
+63
+00:02:33.001 --> 00:02:36.004
+where your organization lacks expertise.
+
+64
+00:02:36.004 --> 00:02:38.005
+Performing an AI skills gap analysis
+
+65
+00:02:38.005 --> 00:02:41.000
+and conducting a talent audit are critical steps
+
+66
+00:02:41.000 --> 00:02:43.006
+towards successful AI adoption.
+
+67
+00:02:43.006 --> 00:02:46.008
+By understanding and addressing these gaps, you can ensure
+
+68
+00:02:46.008 --> 00:02:48.001
+that your organization
+
+69
+00:02:48.001 --> 00:02:50.008
+not only adopts AI technology effectively,
+
+70
+00:02:50.008 --> 00:02:52.005
+but also remains competitive
+
+71
+00:02:52.005 --> 00:02:54.007
+in a rapidly evolving digital landscape.

@@ -1,0 +1,189 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.007
+- Adopting AI in your organization
+
+2
+00:00:02.007 --> 00:00:04.005
+is no longer just an option.
+
+3
+00:00:04.005 --> 00:00:08.002
+It's a necessity for staying competitive and innovative.
+
+4
+00:00:08.002 --> 00:00:10.003
+In this course, you'll be introduced
+
+5
+00:00:10.003 --> 00:00:12.009
+to Imaginatives five-step USAGE Framework.
+
+6
+00:00:12.009 --> 00:00:14.009
+A pragmatic, comprehensive guide
+
+7
+00:00:14.009 --> 00:00:17.000
+designed for decision-makers like you
+
+8
+00:00:17.000 --> 00:00:19.008
+looking to strategically adopt AI.
+
+9
+00:00:19.008 --> 00:00:21.003
+By the end of this video,
+
+10
+00:00:21.003 --> 00:00:23.003
+you'll understand the framework's components,
+
+11
+00:00:23.003 --> 00:00:25.005
+and how it helps to align AI initiatives
+
+12
+00:00:25.005 --> 00:00:29.000
+with your organization's strategic vision.
+
+13
+00:00:29.000 --> 00:00:31.005
+Navigating the AI landscapes can seem daunting
+
+14
+00:00:31.005 --> 00:00:34.002
+given how quickly the technology is advancing.
+
+15
+00:00:34.002 --> 00:00:36.008
+The USAGE Framework breaks down the process
+
+16
+00:00:36.008 --> 00:00:39.004
+into five intuitive stages:
+
+17
+00:00:39.004 --> 00:00:44.007
+understand, survey, align, guide, and evaluate.
+
+18
+00:00:44.007 --> 00:00:48.002
+First, you start by understanding AI through education
+
+19
+00:00:48.002 --> 00:00:51.009
+and use case identification to set realistic expectations
+
+20
+00:00:51.009 --> 00:00:54.006
+and build knowledge across your teams.
+
+21
+00:00:54.006 --> 00:00:57.006
+Next, you survey your business and technology landscape
+
+22
+00:00:57.006 --> 00:00:59.004
+to audit your readiness.
+
+23
+00:00:59.004 --> 00:01:02.007
+This feasibility study is essential for scoping requirements
+
+24
+00:01:02.007 --> 00:01:04.008
+and potential barriers.
+
+25
+00:01:04.008 --> 00:01:06.006
+Then you align your planned initiatives
+
+26
+00:01:06.006 --> 00:01:08.004
+to measurable business goals,
+
+27
+00:01:08.004 --> 00:01:11.004
+crafting an agile roadmap to drive both short
+
+28
+00:01:11.004 --> 00:01:13.005
+and long-term value.
+
+29
+00:01:13.005 --> 00:01:16.007
+Next, you guide your rollout through proper governance,
+
+30
+00:01:16.007 --> 00:01:20.007
+training and an iterative approach to responsible scaling.
+
+31
+00:01:20.007 --> 00:01:23.002
+And finally, you evaluate performance
+
+32
+00:01:23.002 --> 00:01:24.006
+through metrics and feedback,
+
+33
+00:01:24.006 --> 00:01:28.002
+to analyze ROI and determine next phases.
+
+34
+00:01:28.002 --> 00:01:31.005
+The USAGE Framework simplifies the AI integration journey
+
+35
+00:01:31.005 --> 00:01:34.002
+into actionable and achievable steps.
+
+36
+00:01:34.002 --> 00:01:37.001
+It shifts the mindset from reactive to strategic
+
+37
+00:01:37.001 --> 00:01:40.000
+by ensuring alignment to business priorities early,
+
+38
+00:01:40.000 --> 00:01:42.003
+and emphasizing practical progression
+
+39
+00:01:42.003 --> 00:01:44.006
+focused on continuous learning.
+
+40
+00:01:44.006 --> 00:01:45.008
+In the coming videos,
+
+41
+00:01:45.008 --> 00:01:48.004
+we'll dive deeper into each of the frameworks components,
+
+42
+00:01:48.004 --> 00:01:50.009
+and explore practical examples and recommendations
+
+43
+00:01:50.009 --> 00:01:53.007
+for putting this methodology into practice.
+
+44
+00:01:53.007 --> 00:01:55.003
+By the end of this course,
+
+45
+00:01:55.003 --> 00:01:57.005
+you will be able to craft an adoption plan
+
+46
+00:01:57.005 --> 00:01:59.005
+to integrate AI systematically.
+
+47
+00:01:59.005 --> 00:02:02.006
+Unlocking more value and building strategic advantage.

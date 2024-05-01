@@ -1,0 +1,373 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.009
+- As I mentioned in the course introduction,
+
+2
+00:00:02.009 --> 00:00:06.008
+you can't effectively navigate what you don't understand.
+
+3
+00:00:06.008 --> 00:00:08.006
+That's why our usage framework starts
+
+4
+00:00:08.006 --> 00:00:10.003
+with building collective understanding
+
+5
+00:00:10.003 --> 00:00:13.004
+of AI capabilities and the fundamentals.
+
+6
+00:00:13.004 --> 00:00:15.005
+In this video, I'm going to walk you through
+
+7
+00:00:15.005 --> 00:00:18.009
+how you can develop AI literacy across your organization
+
+8
+00:00:18.009 --> 00:00:23.004
+and enable greater understanding, participation, and impact.
+
+9
+00:00:23.004 --> 00:00:25.002
+To fully leverage AI's potential,
+
+10
+00:00:25.002 --> 00:00:28.001
+organizations need more than just the technology itself.
+
+11
+00:00:28.001 --> 00:00:29.004
+They need people,
+
+12
+00:00:29.004 --> 00:00:32.000
+people who deeply understand how AI works
+
+13
+00:00:32.000 --> 00:00:34.005
+and how to apply strategically.
+
+14
+00:00:34.005 --> 00:00:36.001
+This ability to comprehend
+
+15
+00:00:36.001 --> 00:00:40.004
+and thoughtfully use AI is what we call AI literacy.
+
+16
+00:00:40.004 --> 00:00:41.004
+Here are three ways
+
+17
+00:00:41.004 --> 00:00:43.003
+that you should be thinking about AI literacy
+
+18
+00:00:43.003 --> 00:00:45.002
+at a strategic level.
+
+19
+00:00:45.002 --> 00:00:47.007
+First is as a business advantage.
+
+20
+00:00:47.007 --> 00:00:51.001
+It goes without saying that learning and understanding AI
+
+21
+00:00:51.001 --> 00:00:53.000
+will empower you and your teams
+
+22
+00:00:53.000 --> 00:00:54.004
+to make more informed decisions
+
+23
+00:00:54.004 --> 00:00:56.004
+on how to implement AI solutions,
+
+24
+00:00:56.004 --> 00:00:58.004
+recognizing their potential impacts
+
+25
+00:00:58.004 --> 00:01:00.007
+and managing risks effectively.
+
+26
+00:01:00.007 --> 00:01:03.006
+This means you can deliver improved processes, products,
+
+27
+00:01:03.006 --> 00:01:05.007
+and customer experiences that translate
+
+28
+00:01:05.007 --> 00:01:09.007
+to tangible cost savings and revenue growth.
+
+29
+00:01:09.007 --> 00:01:12.009
+Secondly, AI literacy is crucial for ensuring
+
+30
+00:01:12.009 --> 00:01:15.000
+ethical and responsible use of AI,
+
+31
+00:01:15.000 --> 00:01:19.004
+including considerations of privacy, bias, and transparency.
+
+32
+00:01:19.004 --> 00:01:22.004
+And finally, as AI continues to evolve,
+
+33
+00:01:22.004 --> 00:01:24.003
+a workforce that is literate in AI
+
+34
+00:01:24.003 --> 00:01:26.009
+will be better positioned to adapt and thrive
+
+35
+00:01:26.009 --> 00:01:30.001
+in a rapidly changing technological landscape.
+
+36
+00:01:30.001 --> 00:01:33.007
+So how can you go about effectively cultivating AI literacy
+
+37
+00:01:33.007 --> 00:01:36.000
+across your teams?
+
+38
+00:01:36.000 --> 00:01:38.009
+Start by investing in training and development programs
+
+39
+00:01:38.009 --> 00:01:40.004
+that are tailored to different roles
+
+40
+00:01:40.004 --> 00:01:41.009
+within your organization.
+
+41
+00:01:41.009 --> 00:01:43.009
+For example, executives will need
+
+42
+00:01:43.009 --> 00:01:45.007
+more strategic level understanding
+
+43
+00:01:45.007 --> 00:01:49.003
+while engineers require more in-depth technical knowledge.
+
+44
+00:01:49.003 --> 00:01:51.003
+Also, be sure to include training
+
+45
+00:01:51.003 --> 00:01:52.009
+on AI ethics and governance
+
+46
+00:01:52.009 --> 00:01:55.004
+to ensure that all employees understand the importance
+
+47
+00:01:55.004 --> 00:01:59.001
+of responsible AI use and where the company stands.
+
+48
+00:01:59.001 --> 00:02:01.002
+If you don't have the expertise in-house,
+
+49
+00:02:01.002 --> 00:02:03.008
+you'll need to partner with AI consultants that can provide
+
+50
+00:02:03.008 --> 00:02:06.008
+workshops, executive keynotes, speaking engagements,
+
+51
+00:02:06.008 --> 00:02:09.004
+and other structured training programs.
+
+52
+00:02:09.004 --> 00:02:11.003
+Use the relevant development programs
+
+53
+00:02:11.003 --> 00:02:15.004
+and modalities that work best for your organization or team.
+
+54
+00:02:15.004 --> 00:02:18.000
+Where possible provide opportunities for employees
+
+55
+00:02:18.000 --> 00:02:21.001
+to work directly with AI tools and solutions.
+
+56
+00:02:21.001 --> 00:02:23.002
+Practical experience is one of the best ways
+
+57
+00:02:23.002 --> 00:02:26.008
+to understand the nuances and the potentials of AI.
+
+58
+00:02:26.008 --> 00:02:29.004
+Make AI learning resources readily available.
+
+59
+00:02:29.004 --> 00:02:31.003
+This could include internal knowledge bases,
+
+60
+00:02:31.003 --> 00:02:33.008
+such as AI policies and prompt libraries,
+
+61
+00:02:33.008 --> 00:02:35.009
+subscriptions to AI related publications
+
+62
+00:02:35.009 --> 00:02:37.004
+like imaginative.com,
+
+63
+00:02:37.004 --> 00:02:40.008
+or access to online courses like LinkedIn Learning.
+
+64
+00:02:40.008 --> 00:02:42.002
+It is equally important
+
+65
+00:02:42.002 --> 00:02:45.001
+that you also allocate dedicated time for learning.
+
+66
+00:02:45.001 --> 00:02:47.004
+That way employees are not just squeezing it
+
+67
+00:02:47.004 --> 00:02:49.008
+into their already busy schedules.
+
+68
+00:02:49.008 --> 00:02:51.001
+Allocating time shows
+
+69
+00:02:51.001 --> 00:02:53.005
+that the organization values AI literacy
+
+70
+00:02:53.005 --> 00:02:57.000
+and is committed to investing in its employees development.
+
+71
+00:02:57.000 --> 00:02:59.006
+Lastly, lead by example.
+
+72
+00:02:59.006 --> 00:03:03.000
+You need to dedicate a time to understand AI yourself.
+
+73
+00:03:03.000 --> 00:03:05.004
+You should not only endorse AI learning initiatives,
+
+74
+00:03:05.004 --> 00:03:08.001
+but also actively participate in them.
+
+75
+00:03:08.001 --> 00:03:10.006
+Stay curious and informed.
+
+76
+00:03:10.006 --> 00:03:14.003
+Openly ask questions and discuss learnings with your team.
+
+77
+00:03:14.003 --> 00:03:16.007
+This will send a powerful message about the value
+
+78
+00:03:16.007 --> 00:03:21.005
+and strategic priority of AI literacy for the organization.
+
+79
+00:03:21.005 --> 00:03:24.009
+Remember, make AI literacy a strategic priority
+
+80
+00:03:24.009 --> 00:03:26.001
+for your business.
+
+81
+00:03:26.001 --> 00:03:29.006
+And AI literate workforce and leadership will pay dividends
+
+82
+00:03:29.006 --> 00:03:32.008
+through more impactful solutions, adaptable strategies,
+
+83
+00:03:32.008 --> 00:03:35.006
+and future proof competitiveness.
+
+84
+00:03:35.006 --> 00:03:37.000
+After watching this video,
+
+85
+00:03:37.000 --> 00:03:38.009
+your goal is to create an action plan
+
+86
+00:03:38.009 --> 00:03:41.003
+to assess your team's current AI knowledge
+
+87
+00:03:41.003 --> 00:03:43.003
+and build an AI literacy roadmap
+
+88
+00:03:43.003 --> 00:03:45.003
+that addresses the diverse learning needs
+
+89
+00:03:45.003 --> 00:03:47.001
+of your organization.
+
+90
+00:03:47.001 --> 00:03:49.003
+Engage with AI consultants if needed,
+
+91
+00:03:49.003 --> 00:03:51.004
+leverage various learning resources,
+
+92
+00:03:51.004 --> 00:03:54.004
+and most importantly, allocate dedicated time
+
+93
+00:03:54.004 --> 00:03:55.003
+for this learning.

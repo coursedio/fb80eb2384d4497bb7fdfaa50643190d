@@ -1,0 +1,233 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.000
+- Organizing your business
+
+2
+00:00:02.000 --> 00:00:04.005
+for AI success requires thoughtful leadership
+
+3
+00:00:04.005 --> 00:00:06.000
+and ownership structures.
+
+4
+00:00:06.000 --> 00:00:06.009
+I get it,
+
+5
+00:00:06.009 --> 00:00:09.009
+governance and organizational design isn't exciting,
+
+6
+00:00:09.009 --> 00:00:12.007
+but it is utterly foundational.
+
+7
+00:00:12.007 --> 00:00:14.001
+AI solutions live
+
+8
+00:00:14.001 --> 00:00:17.005
+or die based on operating models wrapped around them.
+
+9
+00:00:17.005 --> 00:00:18.005
+Here's how you want to think
+
+10
+00:00:18.005 --> 00:00:20.009
+about approaching structuring AI leadership and ownership
+
+11
+00:00:20.009 --> 00:00:22.005
+in your business.
+
+12
+00:00:22.005 --> 00:00:26.001
+First, appoint a dedicated AI leader or group,
+
+13
+00:00:26.001 --> 00:00:28.007
+ideally someone at the executive level.
+
+14
+00:00:28.007 --> 00:00:30.008
+Their main responsibilities should include
+
+15
+00:00:30.008 --> 00:00:33.008
+informing AI strategy, facilitating governance,
+
+16
+00:00:33.008 --> 00:00:36.008
+managing partnerships, and guide and adoption.
+
+17
+00:00:36.008 --> 00:00:40.002
+Second, implement cross-functional AI committees
+
+18
+00:00:40.002 --> 00:00:43.007
+with representatives from business units impacted by AI.
+
+19
+00:00:43.007 --> 00:00:46.007
+These groups can align on standards, use cases,
+
+20
+00:00:46.007 --> 00:00:48.005
+risks, and roadmaps.
+
+21
+00:00:48.005 --> 00:00:51.005
+Importantly, they act as two-way conduits,
+
+22
+00:00:51.005 --> 00:00:53.008
+disseminating strategy down through the org
+
+23
+00:00:53.008 --> 00:00:56.006
+and feedback up decision makers.
+
+24
+00:00:56.006 --> 00:00:58.006
+Depending on the size of your organization,
+
+25
+00:00:58.006 --> 00:01:00.008
+you can also consider subcommittees focused
+
+26
+00:01:00.008 --> 00:01:04.003
+on areas like HR, IT infrastructure, finance,
+
+27
+00:01:04.003 --> 00:01:07.001
+risk, ethics, and compliance.
+
+28
+00:01:07.001 --> 00:01:09.009
+The more voices represented the better.
+
+29
+00:01:09.009 --> 00:01:13.002
+Lastly, establish clear AI solution ownership
+
+30
+00:01:13.002 --> 00:01:16.001
+at the team level where rubber meets the road.
+
+31
+00:01:16.001 --> 00:01:19.000
+Designate product managers specifically empowered
+
+32
+00:01:19.000 --> 00:01:21.004
+to drive adoption of new AI tools
+
+33
+00:01:21.004 --> 00:01:24.005
+or to deliver solutions to customers.
+
+34
+00:01:24.005 --> 00:01:26.007
+These end-to-end owners can liaise
+
+35
+00:01:26.007 --> 00:01:29.009
+with technical AI teams on tooling, while also coordinating
+
+36
+00:01:29.009 --> 00:01:33.005
+with change management for the business users impacted.
+
+37
+00:01:33.005 --> 00:01:36.005
+Their ownership builds accountability.
+
+38
+00:01:36.005 --> 00:01:38.007
+Laying this foundation of multi-tiered leadership
+
+39
+00:01:38.007 --> 00:01:41.002
+and ownership delivers strategic oversight
+
+40
+00:01:41.002 --> 00:01:43.009
+and direction, while still encouraging agility
+
+41
+00:01:43.009 --> 00:01:46.004
+through decentralized decision making.
+
+42
+00:01:46.004 --> 00:01:47.007
+It also fosters learning
+
+43
+00:01:47.007 --> 00:01:50.007
+and best practice sharing across the organization,
+
+44
+00:01:50.007 --> 00:01:53.005
+helping to scale AI competency.
+
+45
+00:01:53.005 --> 00:01:56.007
+Decisive organizational design reduces bottlenecks,
+
+46
+00:01:56.007 --> 00:01:59.001
+misalignment, and a duplication of efforts
+
+47
+00:01:59.001 --> 00:02:01.002
+that can otherwise throttle AI success
+
+48
+00:02:01.002 --> 00:02:03.002
+and value realization.
+
+49
+00:02:03.002 --> 00:02:05.003
+After watching this video, take some time
+
+50
+00:02:05.003 --> 00:02:07.005
+to reflect on your current AI governance,
+
+51
+00:02:07.005 --> 00:02:09.002
+identify any leadership gaps
+
+52
+00:02:09.002 --> 00:02:11.006
+or unclear ownership that you may need to address
+
+53
+00:02:11.006 --> 00:02:14.004
+through a proposed organizational redesign.
+
+54
+00:02:14.004 --> 00:02:18.001
+Remember, thoughtfully design structures empower teams,
+
+55
+00:02:18.001 --> 00:02:19.009
+maintain alignment to strategy,
+
+56
+00:02:19.009 --> 00:02:22.008
+and drive accountability for solution success.
+
+57
+00:02:22.008 --> 00:02:24.002
+In the next video, we'll be looking
+
+58
+00:02:24.002 --> 00:02:27.002
+at operationalizing your AI strategy, so stay tuned.

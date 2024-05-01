@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.006
+- [Instructor] Strategizing and planning is key,
+
+2
+00:00:02.006 --> 00:00:03.006
+but let's be clear.
+
+3
+00:00:03.006 --> 00:00:07.004
+There's no ROI in AI unless you execute.
+
+4
+00:00:07.004 --> 00:00:09.004
+In theory, generative AI presents
+
+5
+00:00:09.004 --> 00:00:11.007
+tremendous opportunities for your business,
+
+6
+00:00:11.007 --> 00:00:12.007
+but in practice,
+
+7
+00:00:12.007 --> 00:00:14.006
+the difference between success and failure
+
+8
+00:00:14.006 --> 00:00:15.009
+is in how effectively
+
+9
+00:00:15.009 --> 00:00:19.001
+you can move from strategy to implementation.
+
+10
+00:00:19.001 --> 00:00:20.009
+In this video, I'll guide you through
+
+11
+00:00:20.009 --> 00:00:22.002
+developing an action plan
+
+12
+00:00:22.002 --> 00:00:24.008
+to operationalize your generative AI strategy.
+
+13
+00:00:24.008 --> 00:00:26.006
+By the end, you'll be equipped
+
+14
+00:00:26.006 --> 00:00:28.001
+to translate your strategic vision
+
+15
+00:00:28.001 --> 00:00:30.001
+into specific actionable tasks
+
+16
+00:00:30.001 --> 00:00:32.007
+that can help you succeed.
+
+17
+00:00:32.007 --> 00:00:34.007
+Turning your AI strategy into realities
+
+18
+00:00:34.007 --> 00:00:36.003
+like navigating a new path.
+
+19
+00:00:36.003 --> 00:00:40.005
+It requires both a map and the agility to adapt.
+
+20
+00:00:40.005 --> 00:00:41.007
+You have laid the groundwork.
+
+21
+00:00:41.007 --> 00:00:44.000
+Now let's focus on the practical steps
+
+22
+00:00:44.000 --> 00:00:45.008
+to ensure your journey from AI strategy
+
+23
+00:00:45.008 --> 00:00:50.003
+to execution is both effective and efficient.
+
+24
+00:00:50.003 --> 00:00:52.002
+It is best to start small in scope.
+
+25
+00:00:52.002 --> 00:00:54.000
+Deploy solutions quickly.
+
+26
+00:00:54.000 --> 00:00:55.003
+Gather user feedback.
+
+27
+00:00:55.003 --> 00:00:57.006
+Improve and repeat.
+
+28
+00:00:57.006 --> 00:00:59.004
+If you're building a product for customers
+
+29
+00:00:59.004 --> 00:01:02.001
+for example, develop a minimum viable prototype
+
+30
+00:01:02.001 --> 00:01:05.004
+to test critical functionality with real users.
+
+31
+00:01:05.004 --> 00:01:08.000
+Embrace an iterative process.
+
+32
+00:01:08.000 --> 00:01:09.004
+Rather than aiming for perfection
+
+33
+00:01:09.004 --> 00:01:10.003
+in the first go,
+
+34
+00:01:10.003 --> 00:01:12.005
+focus on continuous improvement based on
+
+35
+00:01:12.005 --> 00:01:15.000
+a real world usage and feedback.
+
+36
+00:01:15.000 --> 00:01:18.001
+For AI implementations, focus on simple,
+
+37
+00:01:18.001 --> 00:01:20.008
+helpful, visible use cases first.
+
+38
+00:01:20.008 --> 00:01:24.005
+Use your roadmap to guide prioritization.
+
+39
+00:01:24.005 --> 00:01:26.007
+It is important to choose narrow problems
+
+40
+00:01:26.007 --> 00:01:29.007
+where AI can augment teams seamlessly.
+
+41
+00:01:29.007 --> 00:01:31.006
+User buying accelerates adoption.
+
+42
+00:01:31.006 --> 00:01:33.009
+So your goal is to win user confidence
+
+43
+00:01:33.009 --> 00:01:36.000
+through added value.
+
+44
+00:01:36.000 --> 00:01:38.007
+Remember, generative AI empowers teams
+
+45
+00:01:38.007 --> 00:01:41.007
+to iterate at exponentially faster speeds.
+
+46
+00:01:41.007 --> 00:01:43.008
+You should be that nimble adaptability
+
+47
+00:01:43.008 --> 00:01:47.002
+into implementation frameworks from the start.
+
+48
+00:01:47.002 --> 00:01:48.009
+Empower cross-functional teams
+
+49
+00:01:48.009 --> 00:01:50.005
+owning end-to-end use cases
+
+50
+00:01:50.005 --> 00:01:52.008
+to learn rapidly by doing.
+
+51
+00:01:52.008 --> 00:01:54.001
+Let them build momentum
+
+52
+00:01:54.001 --> 00:01:55.009
+by delivering a continual stream
+
+53
+00:01:55.009 --> 00:02:00.003
+of small AI advances versus big bang deployments.
+
+54
+00:02:00.003 --> 00:02:02.000
+This agile approach allows you
+
+55
+00:02:02.000 --> 00:02:04.002
+to pivot dynamically based on user data,
+
+56
+00:02:04.002 --> 00:02:07.001
+and feedback from solution prototypes.
+
+57
+00:02:07.001 --> 00:02:08.003
+Ensure clear communication
+
+58
+00:02:08.003 --> 00:02:10.009
+about the role and benefits of AI.
+
+59
+00:02:10.009 --> 00:02:12.006
+Provide training sessions that are tailored
+
+60
+00:02:12.006 --> 00:02:13.009
+to different user groups,
+
+61
+00:02:13.009 --> 00:02:15.001
+helping them understand,
+
+62
+00:02:15.001 --> 00:02:18.000
+and adapt to the new tools and processes.
+
+63
+00:02:18.000 --> 00:02:20.000
+Enable adoption through involvement,
+
+64
+00:02:20.000 --> 00:02:23.001
+and build learning velocity into your teams.
+
+65
+00:02:23.001 --> 00:02:25.004
+Lastly, recognize that AI technology
+
+66
+00:02:25.004 --> 00:02:26.007
+is rapidly advancing,
+
+67
+00:02:26.007 --> 00:02:28.001
+so you'll need to build flexibility
+
+68
+00:02:28.001 --> 00:02:30.002
+into your plans right from the start.
+
+69
+00:02:30.002 --> 00:02:33.006
+For example, use containerized modular components
+
+70
+00:02:33.006 --> 00:02:35.007
+that allow for easier experimentation,
+
+71
+00:02:35.007 --> 00:02:38.000
+change and reusability.
+
+72
+00:02:38.000 --> 00:02:39.007
+This will ensure that as the technology
+
+73
+00:02:39.007 --> 00:02:41.002
+inevitably becomes more capable,
+
+74
+00:02:41.002 --> 00:02:43.005
+you can quickly adapt accordingly.
+
+75
+00:02:43.005 --> 00:02:46.000
+Operationalizing your AI strategy
+
+76
+00:02:46.000 --> 00:02:49.001
+is about taking calculated practical steps.
+
+77
+00:02:49.001 --> 00:02:52.001
+By starting small, focusing on impactful areas,
+
+78
+00:02:52.001 --> 00:02:54.000
+and using an iterative approach,
+
+79
+00:02:54.000 --> 00:02:55.004
+you can navigate the complexities
+
+80
+00:02:55.004 --> 00:02:58.003
+of AI implementation effectively.
+
+81
+00:02:58.003 --> 00:03:00.009
+Your goal now is to take these recommendations
+
+82
+00:03:00.009 --> 00:03:03.005
+tailor them to your organization's context,
+
+83
+00:03:03.005 --> 00:03:05.000
+and start the journey of transforming
+
+84
+00:03:05.000 --> 00:03:07.009
+your AI strategy into tangible business outcomes.
